@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100..900&display=swap');
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  font-family: "Smooch Sans", serif;
+  
+}
+/* *{
+
+  #155e75
+  transition:all .3s ease ;
+  -webkit-transition:all .3s ease ;
+  -moz-transition:all .3s ease ;
+  -ms-transition:all .3s ease ;
+  -o-transition:all .3s ease ;
+} */
